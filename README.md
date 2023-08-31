@@ -30,5 +30,5 @@ Before you begin, make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/object-detection-with-yolo.git
+   git clone https://github.com/abhijeetGithu/Object-Detection-YOLO-Project.git
    cd object-detection-with-yolo
