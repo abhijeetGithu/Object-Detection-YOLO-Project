@@ -1,6 +1,6 @@
 # Object Detection with YOLO
 
-![Object Detection Example]([path_to_your_image.jpg](https://miro.medium.com/v2/resize:fit:768/1*VXZ8CamGG2Z0M0N4t0Fmng.jpeg))
+![Object Detection Example](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VXZ8CamGG2Z0M0N4t0Fmng.jpeg))
 
 This repository contains code and resources for performing object detection using YOLO (You Only Look Once). YOLO is a popular deep learning algorithm that can detect objects in images and videos quickly and accurately.
 
