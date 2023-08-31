@@ -15,8 +15,10 @@ This repository contains code and resources for performing object detection usin
 - [License](#license)
 
 ## Getting Started
-
 These instructions will help you set up and run object detection using YOLO on your local machine.
+
+## Contributing and License
+
 
 ## Prerequisites
 
@@ -34,3 +36,10 @@ Before you begin, make sure you have the following installed:
    ```bash
    git clone https://github.com/abhijeetGithu/Object-Detection-YOLO-Project.git
    cd object-detection-with-yolo
+
+## Customization
+You can customize the script by modifying the class names, model paths, or any other parameters in the script according to your needs.
+
+## Contributing and License
+Contributions are welcome! If you find any issues or want to improve the project, feel free to open a pull request.
+This project is licensed under the MIT License.
