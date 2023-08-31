@@ -23,8 +23,10 @@ These instructions will help you set up and run object detection using YOLO on y
 Before you begin, make sure you have the following installed:
 
 - Python (version X.X)
-- TensorFlow (version X.X) or other compatible deep learning library
+- OpenCV (version X.X)
+- cvzone (install using pip: `pip install cvzone`)
 - YOLO weights and configuration files (can be downloaded from YOLO official website)
+- Ultralytics (install using pip: `pip install ultralytics`)
 
 ## Installation
 
