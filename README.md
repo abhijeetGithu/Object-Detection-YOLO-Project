@@ -40,6 +40,9 @@ Before you begin, make sure you have the following installed:
 ## Customization
 You can customize the script by modifying the class names, model paths, or any other parameters in the script according to your needs.
 
-## Contributing and License
+## Contributing
 Contributions are welcome! If you find any issues or want to improve the project, feel free to open a pull request.
 This project is licensed under the MIT License.
+
+## License
+This repository is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
